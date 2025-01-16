@@ -1,0 +1,15 @@
+{
+	"name": "One",
+	"description": "The first integer 1",
+	"image": "ipfs://{CID}/1.txt",
+	"attributes": [
+		{
+			"trait":"square",
+			"value":"1"
+		},
+		{
+			"trait":"cube",
+			"value":"1"
+		}
+	]
+}
